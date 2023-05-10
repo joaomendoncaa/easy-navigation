@@ -3,7 +3,7 @@
     "displayName": "Easy Navigation",
     "description": "Make navigating quickly through your codebase easier.",
     "version": "0.0.1",
-    "publisher": "joaomendoncaaa",
+    "publisher": "joaomendonca",
     "engines": {
         "vscode": "^1.74.0"
     },
